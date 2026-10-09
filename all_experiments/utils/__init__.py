@@ -14,3 +14,4 @@ __all__ = [
     "SearchResult", "astar", "best_first", "bfs", "dfs", "gbfs", "ucs",
     "haversine_km", "load_openflights", "route_is_valid", "plot_route_paths",
 ]
+
